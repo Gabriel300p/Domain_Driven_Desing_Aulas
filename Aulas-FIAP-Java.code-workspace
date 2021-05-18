@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "Aulas - FIAP"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"Aula01 - Classes/src/br/com/fiap/tds/view",
+			"Test/br/com/fiap/tds/bean/br/com/fiap/tds/bean"
+		]
+	}
+}
